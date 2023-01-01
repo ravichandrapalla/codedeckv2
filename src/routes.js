@@ -6,7 +6,7 @@ const Page404 = React.lazy(() => import("./Pages/Page404"));
 
 const routes = [
   {
-    path: "/",
+    path: "/codedeckv2/",
     component: <Home />,
   },
   {
