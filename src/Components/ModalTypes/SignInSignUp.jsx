@@ -10,7 +10,7 @@ import { useAuthState } from "react-firebase-hooks/auth";
 function SignInSignUp() {
   const [user] = useAuthState(auth);
   const { closeModal } = useContext(ModalContext);
-  const [signInShow, setSignInShow] = React.useState(true);
+  const [signInShow, setSignInShow] = React.useState(false);
   const googleProvider = new GoogleAuthProvider();
   const signInWithGoogle = () => {
     signInWithPopup(auth, googleProvider)

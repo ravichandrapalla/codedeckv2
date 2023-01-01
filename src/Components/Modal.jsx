@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { ModalContext } from "../Context/ModalContext";
-import { RxCross1 } from "react-icons/rx";
+//import { RxCross1 } from "react-icons/rx";
 import {
   NewFolder,
   NewPlayGround,
@@ -13,14 +13,7 @@ import {
 function Modal() {
   const { isOpenModal } = useContext(ModalContext);
   const { modalType } = isOpenModal;
-  // ModalTypes
-  // 1: New Folder
-  // 2: New Playground
-  // 3: New Playground and Folder
-  // 4: Rename Folder
-  // 5: Rename Playground
-  // 6: Loading
-  //7 : signIN sign up page
+ 
   return (
     <>
       <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">

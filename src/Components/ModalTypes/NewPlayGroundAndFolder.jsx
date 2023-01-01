@@ -3,7 +3,7 @@ import { RxCross1 } from "react-icons/rx";
 import { ModalContext } from "../../Context/ModalContext";
 import { PlaygroundContext } from "../../Context/PlaygroundContext";
 import Select from "react-select";
-import PlayGround from "../../Pages/PlayGround";
+//import PlayGround from "../../Pages/PlayGround";
 
 function NewPlayGroundAndFolder() {
   const { isOpenModal, closeModal } = useContext(ModalContext);

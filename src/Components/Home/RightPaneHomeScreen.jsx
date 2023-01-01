@@ -128,7 +128,7 @@ function RightPaneHomeScreen() {
                   <Card key={playgroundId}>
                     <div
                       onClick={(e) => {
-                        e.stopPropagation(); //stop click propagation from child to parent
+                        e.stopPropagation();
                         console.log(folderId, playgroundId);
                         navigate(`/playground/${folderId}/${playgroundId}`);
                       }}
@@ -145,7 +145,7 @@ function RightPaneHomeScreen() {
                         className="flex gap-4 items-center"
                         onClick={(e) => {
                           console.log("clicked");
-                          e.stopPropagation(); //stop click propagation from child to parent
+                          e.stopPropagation(); 
                         }}
                       >
                         <BiEditAlt
