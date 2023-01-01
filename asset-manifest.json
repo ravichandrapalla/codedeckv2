@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/codedeckv2/static/css/main.e274ccd4.css",
+    "main.js": "/codedeckv2/static/js/main.c5b61b1a.js",
+    "static/js/771.612389d3.chunk.js": "/codedeckv2/static/js/771.612389d3.chunk.js",
+    "static/js/100.6a7f87ca.chunk.js": "/codedeckv2/static/js/100.6a7f87ca.chunk.js",
+    "static/js/790.ca11b864.chunk.js": "/codedeckv2/static/js/790.ca11b864.chunk.js",
+    "static/js/787.224817c0.chunk.js": "/codedeckv2/static/js/787.224817c0.chunk.js",
+    "static/js/331.3c4dbdd2.chunk.js": "/codedeckv2/static/js/331.3c4dbdd2.chunk.js",
+    "static/js/401.0638d41d.chunk.js": "/codedeckv2/static/js/401.0638d41d.chunk.js",
+    "index.html": "/codedeckv2/index.html",
+    "main.e274ccd4.css.map": "/codedeckv2/static/css/main.e274ccd4.css.map",
+    "main.c5b61b1a.js.map": "/codedeckv2/static/js/main.c5b61b1a.js.map",
+    "771.612389d3.chunk.js.map": "/codedeckv2/static/js/771.612389d3.chunk.js.map",
+    "100.6a7f87ca.chunk.js.map": "/codedeckv2/static/js/100.6a7f87ca.chunk.js.map",
+    "790.ca11b864.chunk.js.map": "/codedeckv2/static/js/790.ca11b864.chunk.js.map",
+    "787.224817c0.chunk.js.map": "/codedeckv2/static/js/787.224817c0.chunk.js.map",
+    "331.3c4dbdd2.chunk.js.map": "/codedeckv2/static/js/331.3c4dbdd2.chunk.js.map",
+    "401.0638d41d.chunk.js.map": "/codedeckv2/static/js/401.0638d41d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e274ccd4.css",
+    "static/js/main.c5b61b1a.js"
+  ]
+}
